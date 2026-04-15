@@ -1,7 +1,6 @@
 # 📊 Data Mining — SRM University Course Materials
 
-A complete collection of presentation materials for the **Data Mining** course (BTECH CSE Core – I, 
-3rd Year / 6th Semester) at SRM University.
+A complete collection of presentation materials for the **Data Mining and Analytics** course (21CSE355T) at SRM University.
 
 ---
 
@@ -36,7 +35,7 @@ DATA_MINING_SRM_PPT/
 
 ## 📚 Unit Summaries
 
-### Unit 1 — Introduction to Data and Data Preprocessing
+### Unit 1 - Introduction to Data and Data Preprocessing
 **File:** `Unit1.pptx`
 
 Covers the foundational concepts of data and how it is prepared for analysis.
@@ -50,7 +49,7 @@ Covers the foundational concepts of data and how it is prepared for analysis.
 
 ---
 
-### Unit 2 — Market Basket Analysis & Association Rule Mining
+### Unit 2 - Market Basket Analysis & Association Rule Mining
 **File:** `Unit2.pptx`
 
 Explores transactional data patterns and the algorithms used to mine them.
@@ -66,7 +65,7 @@ Explores transactional data patterns and the algorithms used to mine them.
 
 ---
 
-### Unit 3 — Decision Trees in Data Mining
+### Unit 3 - Decision Trees in Data Mining
 **File:** `Unit3.pdf`
 
 A deep dive into decision tree-based classification and prediction.
@@ -82,7 +81,7 @@ A deep dive into decision tree-based classification and prediction.
 
 ---
 
-### Unit 4 — Hierarchical Clustering in Data Mining
+### Unit 4  - Hierarchical Clustering in Data Mining
 **File:** `Unit4.pdf`
 
 Covers cluster analysis through hierarchical methods and dendrogram interpretation.
@@ -97,7 +96,7 @@ Covers cluster analysis through hierarchical methods and dendrogram interpretati
 
 ---
 
-### Unit 5 — Outlier Detection and Data Mining Applications
+### Unit 5 -  Outlier Detection and Data Mining Applications
 **File:** `Unit5.pdf`
 
 Examines techniques for identifying anomalies and applying data mining in real-world domains.
@@ -115,7 +114,6 @@ Examines techniques for identifying anomalies and applying data mining in real-w
 
 - Microsoft PowerPoint (`.pptx`) — Units 1 & 2
 - PDF format (`.pdf`) — Units 3, 4 & 5
-- Presentations designed using [Gamma](https://gamma.app)
 
 ---
 
