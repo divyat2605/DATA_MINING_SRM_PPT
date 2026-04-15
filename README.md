@@ -8,9 +8,13 @@ A complete collection of presentation materials for the **Data Mining** course (
 ## 👩‍💻 Author
 
 **Divya Tripathi**
+
 Roll No: `RA2311003030547`
+
 Programme: B.Tech CSE Core – I
+
 Year / Semester: 3rd Year / 6th Semester
+
 Institution: SRM University
 
 ---
