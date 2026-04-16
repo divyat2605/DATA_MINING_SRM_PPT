@@ -1,4 +1,4 @@
-# 📊 Data Mining — SRM University Course Materials
+# 📊 Data Mining and Analytics - SRM University 
 
 A complete collection of presentation materials for the **Data Mining and Analytics** course (21CSE355T) at SRM University.
 
