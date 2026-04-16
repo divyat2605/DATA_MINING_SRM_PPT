@@ -10,7 +10,7 @@ A complete collection of presentation materials for the **Data Mining and Analyt
 
 Roll No: `RA2311003030547`
 
-Programme: B.Tech CSE Core – I
+Course : B.Tech CSE Core – I
 
 Year / Semester: 3rd Year / 6th Semester
 
